@@ -1,4 +1,5 @@
 #!/bin/env python3
+# @https://raw.githubusercontent.com/Pependr/wsync/refs/heads/master/wsync.py
 
 import os
 import sys
